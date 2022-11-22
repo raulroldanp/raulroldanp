@@ -19,8 +19,8 @@
 - Version Control: <strong>Git.</strong>
 - Project Management: <strong>Kanban.</strong>
 
-<h3>Let's Connect:<h3/>
-<p dir="auto">
+<h3 align="center">Let's Connect:<h3/>
+<p dir="auto" align="center">
   <a align="center" href="mailto:raulroldanp@gmail.com"><img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="my gmail" height="35" width="auto" style="max-width: 100%;"></a>
   <a align="center" href="https://www.linkedin.com/in/raúl-roldán-palomar-a24a01254/" rel="nofollow"><img src="https://camo.githubusercontent.com/603c4b5be183feb62c872b2507be983d63148742c5746554777656b5d8d4df4e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" alt="Me in linkedin" height="36" width="auto" style="max-width: 100%;"></a>  
 </p>
