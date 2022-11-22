@@ -3,6 +3,8 @@
 <p>
  ➢ I like to keep up with the latest technologies and software trends.
   <br/>
+ ➢ My main objective is to achieve continuous improvement in my professional activity.
+  <br/>
  ➢ I’m currently mastering SpringBoot & Angular.
   <br/>
  ➢ Open to work.
