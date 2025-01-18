@@ -13,7 +13,7 @@
 <h3>Tech Stack</h3>
 
 - Backend: <strong>Laravel, Eloquent, PHP, Java, Spring Boot, Spring REST MVC, Hibernate, RESTful Services.</strong>
-- Frontend: <strong>Livewire, Angular, TypeScript, JavaScript, Bootstrap, CSS3.</strong>
+- Frontend: <strong>Livewire, Angular, TypeScript, JavaScript, Tailwind CSS, Bootstrap.</strong>
 - Database: <strong>Oracle, MySQL, MariaDB, MongoDB.</strong>
 - Build Tools: <strong>Maven.</strong>
 - Dependency Management Tools: <strong>Composer, npm.</strong>
